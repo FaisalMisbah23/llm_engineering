@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+*.sqlite3
+*.db
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Logs
+*.log
+logs/
+
+# Gradio cache
+gradio_cached_examples/
+
+# Analytics/logs (if any)
+*.json
+*.csv
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Misc
+*.bak
+*.swp
+*.tmp
+
+# Ignore assets if large or generated
+assets/
